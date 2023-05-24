@@ -1,0 +1,43 @@
+body{
+    font-family: 'Kanit', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.navbar-brand{
+    color: rgb(200, 155, 241);   
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    transition: .2s ease-in;
+    color: rgb(200, 155, 241);
+}
+
+.main{
+    margin-top: 8%;
+}
+
+.name{
+    font-size: 43px;
+    font-weight: 600;
+    margin-top: 220px;
+}
+
+.fname{
+    font-size: 58px;
+    font-weight: bold;
+}
+
+.btn{
+    background-color: rgb(200, 155, 241);
+    font-weight: bold;
+    border: none;
+}
+
+.btn:hover{
+    color: rgb(200, 155, 241);
+}
